@@ -87,18 +87,11 @@ Cada etapa foi planejada para unir **criatividade, tecnologia e propósito**.
 
 ---
 
-## 💬 Como ouvir
-
-O episódio estará disponível em breve nas principais plataformas de streaming (Spotify, Deezer, Apple Podcasts, etc.).  
-👉 **Fique de olho neste repositório para o link oficial!**
-
----
-
 ## ✨ Autoria
 
-**Desenvolvido e apresentado por:** [Seu nome ou pseudônimo]  
+**Desenvolvido e apresentado por:** Lívia Côco Louzada  
 **Podcast:** *Loop Delas — Repetindo até mudar o sistema*  
-📧 Contato: [seu e-mail ou rede profissional]  
+🔗 [LinkedIn](https://www.linkedin.com/in/lívia-côco-louzada-85ab5a273/)
 
 ---
 
