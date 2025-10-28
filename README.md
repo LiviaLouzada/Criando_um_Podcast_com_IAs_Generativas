@@ -74,6 +74,8 @@ Cada etapa foi planejada para unir **criatividade, tecnologia e propósito**.
 ### 🗂️ **Notion**
 - Organização de todos os elementos do projeto (capas, áudios, prompts e anotações);  
 - Centralização do fluxo de trabalho e registro das etapas de criação.
+- Acesse minha página do Notion:  
+🔗 [Acesse no Notion](https://www.notion.so/Podcast-AI-Studio-2976070fb00980048691d9ab5414d79e)  
 
 ---
 
