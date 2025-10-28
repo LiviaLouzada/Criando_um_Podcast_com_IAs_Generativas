@@ -1,4 +1,4 @@
- # Criando um Podcast com IAs Generativas
+# Criando um Podcast com IAs Generativas
 
 # 🎙️ Loop Delas — Repetindo até mudar o sistema
 
