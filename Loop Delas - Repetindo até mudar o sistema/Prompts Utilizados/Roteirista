@@ -1,0 +1,69 @@
+ •	ROTEIRISTA
+
+> Prompt para gerar o título do Podcast:
+
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em desafios
+enfrentados por mulheres no mercado de tecnologia, eu gostaria de uma ajuda sua para criar 5
+sugestões de nomes criativos para o podcast.
+
+{REGRAS}
+
+- O nome deverá ser enxuto, um nome e um subtítulo
+- O nome não pode ser em Inglês.
+
+ •	ARTISTA
+ 
+> Prompt para gerar a capa do Podcast:
+
+Me forneça uma imagem de uma jovem podcaster sorridente, área tecnologia, com microfone
+e fones de ouvido, no estilo de animação, com enquadramento 1:1. A imagem precisa ser
+relacionada com o título do Podcast " Loop Delas - Repetindo até mudar o sistema “.
+
+> Prompt para gerar a capa do Episódio:
+
+Você é um roteirista de podcast e criamos um podcast de tecnologia, focado em desafios
+enfrentados por mulheres no mercado de tecnologia. O nome do podcast é "Loop Delas -
+Repetindo até mudar o sistema". O nome do primeiro episódio é " Persistir é o Novo Código",
+gostaria que você criasse uma imagem, no estilo de animação, que seja relacionada com o
+assunto do episódio, mostrando a perseverança feminina como parte da própria lógica de
+funcionamento, um código interno de resistência.
+
+{REGRAS}
+
+Uma imagem bem criativa, sem apresentar uma pessoa na animação, com muitas cores, sem
+apresentar o título do episódio.
+
+ •	NARADOR
+
+> Prompt para narrar o primeiro episódio:
+
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado
+em mulheres na tecnologia, cujo o nome é " Loop Delas - Repetindo até mudar o sistema " e
+tem foco nos desafios enfrentados na área para quem é mulher, com o público alvo de
+mulheres estudantes de tecnologia e que estão tentando entrar nesse mercado tecnológico em
+que a grande maioria são homens.
+
+O formato do roteiro deve ser
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+[REGRAS]
+
+- No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do
+canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- No bloco [CURIOSIDADE 1] substitua por uma curiosidade sobre as mulheres, que já
+trabalham na área de tecnologia, comparado aos homens.
+- No bloco [CURIOSIDADE 2] sobre uma ferramenta para as mulheres se destacarem.
+- No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Lívia e esse
+foi o loop delas dessa semana'
+- Use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Lívia
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
